@@ -44,3 +44,10 @@ Achteraf:
 ![alt text](https://raw.githubusercontent.com/Respectzorg/Documentatie/main/Images/git_history_verwijderen_03.png?token=AQEYP3L25ZTWH3XUNCUDQ4TA3LYIA "Overzicht achteraf")
 
 ![alt text](https://raw.githubusercontent.com/Respectzorg/Documentatie/main/Images/git_history_verwijderen_04.png?token=AQEYP3KSGOIMF2VATZK6ZJDA3LYJI "Aantal achteraf")
+
+##### Sources
+
+- Code:
+  https://stackoverflow.com/questions/9683279/make-the-current-commit-the-only-initial-commit-in-a-git-repository/13102849#13102849
+- Betekenis ` --orphan`:
+  https://stackoverflow.com/questions/19980631/what-is-git-checkout-orphan-used-for/19981375
