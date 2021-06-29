@@ -35,12 +35,12 @@ git gc --aggressive --prune=all     # remove the old files
 
 Vooraf:
 
-![alt text](https://github.com/Respectzorg/Documentatie/Images/git_history_verwijderen_01.png "Overzicht vooraf")
+![alt text](https://raw.githubusercontent.com/Respectzorg/Documentatie/main/Images/git_history_verwijderen_01.png?token=AQEYP3JH7CQDEHUGKEH4HTLA3LYCG "Overzicht vooraf")
 
-![alt text](https://github.com/Respectzorg/Documentatie/Images/git_history_verwijderen_02.png "Aantal vooraf")
+![alt text](https://raw.githubusercontent.com/Respectzorg/Documentatie/main/Images/git_history_verwijderen_02.png?token=AQEYP3MKQYY3BNQDBVU7OTTA3LYGC "Aantal vooraf")
 
 Achteraf:
 
-![alt text](https://github.com/Respectzorg/Documentatie/Images/git_history_verwijderen_03.png "Overzicht achteraf")
+![alt text](https://raw.githubusercontent.com/Respectzorg/Documentatie/main/Images/git_history_verwijderen_03.png?token=AQEYP3L25ZTWH3XUNCUDQ4TA3LYIA "Overzicht achteraf")
 
-![alt text](https://github.com/Respectzorg/Documentatie/Images/git_history_verwijderen_04.png "Aantal achteraf")
+![alt text](https://raw.githubusercontent.com/Respectzorg/Documentatie/main/Images/git_history_verwijderen_04.png?token=AQEYP3KSGOIMF2VATZK6ZJDA3LYJI "Aantal achteraf")
