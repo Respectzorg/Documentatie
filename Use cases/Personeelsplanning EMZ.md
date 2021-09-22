@@ -20,9 +20,9 @@ In totaal worden drie bestanden gegenereerd:
 
 Het wordt geautomatiseerd hoe dat [hier](https://github.com/Respectzorg/Documentatie/blob/main/Python/Automatisering%20bestanden%20zonder%20IAM.md) beschreven is. Het programma wordt gehost in [Azure via Docker images](https://github.com/Respectzorg/Documentatie/blob/main/Azure/Lessons%20Learned%20-%20Automatisering.md).
 
-Hierbij is `scheduler.py` het script dat om de maand `Roosterplanning_EM_Moves.py` aanroept. `Roosterplanning_EM_moves.py` wordt gegenereerd binnen de `Docker/Dockerfile.txt` van `Roosterplanning_EM_moves.ipynb`. Als `Roosterplanning_EM_moves.py` aangeroepen is, haalt dit bestand alle benodigde gegevens op, verwerkt deze en zet de output bestanden in de folder `Output` neer. Nadere uitleg over de verwerking is in code zelf te vinden.
+Hierbij is `scheduler.py` het script dat om de maand `Roosterplanning_EM_Moves.py` aanroept. `Roosterplanning_EM_moves.py` wordt gegenereerd binnen de `Docker/Dockerfile.txt` van `Roosterplanning_EM_moves.ipynb`. Als `Roosterplanning_EM_moves.py` aangeroepen is, haalt dit bestand alle benodigde gegevens op en verwerkt deze. Nadere uitleg over de verwerking is in [code](https://github.com/Respectzorg/Extramuraal-Personeelplanning/blob/master/Code/Deployment/Roosterplanning_EM_Moves.ipynb) zelf te vinden.
 
-De gegenereerde bestanden zijn de herkennen aan de volgende naamgevening:
+De gegenereerde bestanden worden in de `Output` folder geplaatst en zijn te herkennen aan de volgende naamgevening:
 
 ```
 <jaar>-<maand>-<dag>_care_arragements_all.xlsx
