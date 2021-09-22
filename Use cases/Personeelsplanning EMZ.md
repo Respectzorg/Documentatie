@@ -8,7 +8,7 @@ Het overizcht is per team en zorgarragement ingedeelt.
 
 De zorgminuten zijn opgeteld per team, zorgarragement en dagdeel. Een dagdeel is 1/4 van de dag verdeeld in ochtend, middag, avond en nacht. Dagdelen van maandag t/m zondag zijn beschikbaar in hetzelfde overzicht.
 
-![Afbeelding van het Excel bestand](https://raw.githubusercontent.com/Respectzorg/Documentatie/main/Images/personeelsplanning_emz_excel_01.png?token=AQEYP3JH7CQDEHUGKEH4HTLA3LYCG "Afbeelding van het Excel bestand")
+![Afbeelding van het Excel bestand](https://raw.githubusercontent.com/Respectzorg/Documentatie/main/Images/personeelsplanning_emz_excel_01.png?token=AQEYP3JH7CQDEHUGKEH4HTLA3LYC "Afbeelding van het Excel bestand")
 
 In totaal worden drie bestanden gegenereerd:
 
@@ -16,7 +16,7 @@ In totaal worden drie bestanden gegenereerd:
 - Available: Betekend dat alleen zorgminuten van beschikbare clienten worden opgeteld.
 - Users: Het aantal van alle clienten is opgeteld i.p.v. het aantal zorgminuten.
 
-## Automatisering
+## Automatisering _(in progress)_
 
 Het wordt geautomatiseerd hoe dat [hier](https://github.com/Respectzorg/Documentatie/blob/main/Python/Automatisering%20bestanden%20zonder%20IAM.md) beschreven is. Het programma wordt gehost in [Azure via Docker images](https://github.com/Respectzorg/Documentatie/blob/main/Azure/Lessons%20Learned%20-%20Automatisering.md).
 
